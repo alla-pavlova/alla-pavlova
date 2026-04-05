@@ -1,16 +1,23 @@
-## Hi there 👋
+# Alla Pavlova
 
-<!--
-**alla-pavlova/alla-pavlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and Fullstack Developer focused on practical applications and real-world projects.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: FastAPI, ASP.NET (C#), REST API  
+- Frontend: React, TypeScript, Expo  
+- Databases: PostgreSQL, MSSQL, Supabase  
+- DevOps: Docker, Terraform (AWS), Azure  
+- Tools: Git, Linux, Bash  
+
+## Projects
+
+- **LS Resort** — wellness platform (frontend and backend)  
+- **ScanText** — OCR service for image-to-text recognition  
+- **Allures** — microservices-based eCommerce backend  
+- **EPAM IT Marathon** — AWS infrastructure with Terraform  
+- **ShopKnife** — mobile app built with React Native (Expo)
+
+## Contacts
+
+- LinkedIn: https://linkedin.com/in/alla-pavlova88
