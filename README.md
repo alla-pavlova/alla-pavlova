@@ -1,6 +1,6 @@
 # Alla Pavlova
 
-Backend and Fullstack Developer focused on practical applications and real-world projects.
+Backend and Fullstack Developer with experience in building web applications and APIs.
 
 ## Tech Stack
 
@@ -13,10 +13,20 @@ Backend and Fullstack Developer focused on practical applications and real-world
 ## Projects
 
 - **LS Resort** — wellness platform (frontend and backend)  
+  https://github.com/alla-pavlova/ls-resort-frontend  
+  https://github.com/alla-pavlova/ls-resort-backend  
+
 - **ScanText** — OCR service for image-to-text recognition  
+  https://github.com/ScanText  
+
 - **Allures** — microservices-based eCommerce backend  
+  https://github.com/Allures-allol/allures-backend  
+
 - **EPAM IT Marathon** — AWS infrastructure with Terraform  
-- **ShopKnife** — mobile app built with React Native (Expo)
+  https://github.com/alla-pavlova/it_marafon  
+
+- **ShopKnife** — mobile app built with React Native (Expo)  
+  https://github.com/alla-pavlova/react-shopknife  
 
 ## Contacts
 
