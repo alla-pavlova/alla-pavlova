@@ -26,7 +26,7 @@ Backend and Fullstack Developer with experience in building web applications and
   https://github.com/alla-pavlova/it_marafon  
 
 - **ShopKnife** — mobile app built with React Native (Expo)  
-  https://github.com/alla-pavlova/react-shopknife  
+  https://github.com/alla-pavlova/Shop 
 
 ## Contacts
 
