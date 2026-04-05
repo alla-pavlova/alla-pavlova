@@ -20,8 +20,8 @@ Backend and Fullstack Developer with experience in building web applications and
   https://github.com/ScanText  
 
 - **Allures** — microservices-based eCommerce backend  
-  https://github.com/Allures-allol/allures-backend  
-
+  https://github.com/Allures-allol/allures-backend/tree/multi-servis-upd
+  
 - **EPAM IT Marathon** — AWS infrastructure with Terraform  
   https://github.com/alla-pavlova/it_marafon  
 
