@@ -12,6 +12,9 @@ Backend and Fullstack Developer with experience in building web applications and
 
 ## Projects
 
+- **ALLSANUM** — frontend demo of wellness platform  
+  https://github.com/alla-pavlova/resort-demo  
+
 - **LS Resort** — wellness platform (frontend and backend)  
   https://github.com/alla-pavlova/ls-resort-frontend  
   https://github.com/alla-pavlova/ls-resort-backend  
