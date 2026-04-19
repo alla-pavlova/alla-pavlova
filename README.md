@@ -17,16 +17,16 @@ Backend and Fullstack Developer with experience in building web applications and
 
 - **LS Resort** — wellness platform (frontend and backend)  
   https://github.com/alla-pavlova/ls-resort-frontend  
-  https://github.com/alla-pavlova/ls-resort-backend  
-
-- **ScanText** — OCR service for image-to-text recognition  
-  https://github.com/ScanText  
+  https://github.com/alla-pavlova/ls-resort-backend
 
 - **Allures** — microservices-based eCommerce backend  
   https://github.com/Allures-allol/allures-backend/tree/multi-servis-upd
   
 - **EPAM IT Marathon** — AWS infrastructure with Terraform  
   https://github.com/alla-pavlova/it_marafon  
+
+- **ScanText** — OCR service for image-to-text recognition  
+  https://github.com/ScanText  
 
 - **ShopKnife** — mobile app built with React Native (Expo)  
   https://github.com/alla-pavlova/Shop 
